@@ -64,12 +64,13 @@ Mε την τεχνική της ιδεοθύελλας καταγράφουμε
 
 Κόστος: 
 A’ επιλογή:
-Thymio Challenge Pack 300 ευρώ
+Thymio Challenge Pack 300 ευρώ (δυο πακέτα)
 
 Β’ επιλογή:
-Συλλογή STEM Junior Robotics Educational - 198,33
+Συλλογή STEM Junior Robotics Educational - 198,33 (δυο πακέτα)
 
 Γ’ Επιλογή:
-Κιτ εφευρέσεων makey makey 70 ευρώ
-Επιδαπέδιο ρομπότ bluebot 124 ευρώ 
-Keyestudio Kidsbits Multi-purpose Coding Robot 85 ευρώ
+2 Κιτ εφευρέσεων makey makey 70 ευρώ
+2 Επιδαπέδια ρομπότ bluebot 124 ευρώ 
+2 Keyestudio Kidsbits Multi-purpose Coding Robot 85 ευρώ
+Ο εξοπλισμός θα αφορά δυο τάξεις
