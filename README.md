@@ -63,13 +63,13 @@ Mε την τεχνική της ιδεοθύελλας καταγράφουμε
 Επομένως, αντιπροτείνουμε τη συλλογή Συλλογή STEM Junior Robotics Educational, το οποίο αν και δεν είναι ανοιχτού κώδικα ανταποκρίνεται στι μαθησιακές ανάγκες της ηλικιακής ομάδας στην οποία απευθυνόμαστε (4-6 ετών). Διαφορετικά θα προτείναμε έναν άλλο συνδυασμό εξοπλισμού που αφορά το επιδαπέδιο ρομπότ blue bot,Keyestudio Kidsbits Multi-purpose Coding Robot και το κιτ εφευρέσεων makey makey
 
 Κόστος: 
-A’ επιλογή
+A’ επιλογή:
 Thymio Challenge Pack 300 ευρώ
 
-Β’ επιλογή 
+Β’ επιλογή:
 Συλλογή STEM Junior Robotics Educational - 198,33
 
-Γ’ Επιλογή
+Γ’ Επιλογή:
 Κιτ εφευρέσεων makey makey 70 ευρώ
 Επιδαπέδιο ρομπότ bluebot 124 ευρώ 
 Keyestudio Kidsbits Multi-purpose Coding Robot 85 ευρώ
